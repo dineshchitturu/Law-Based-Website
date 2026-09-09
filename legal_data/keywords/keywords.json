@@ -1,0 +1,34 @@
+{
+  "categories": {
+    "Cyber Fraud": {
+      "synonyms": ["online fraud", "cyber crime", "upi scam", "bank fraud", "phishing", "qr code scam", "apk scam", "electricity bill fraud", "lottery scam", "credit card fraud"],
+      "recommendedSections": ["sec-it-66d", "sec-bns-318", "sec-it-66c", "sec-bsa-63"],
+      "keyQuestions": ["fraud_medium", "amount_lost", "transaction_datetime", "transaction_id", "bank_contacted", "evidence_types"],
+      "emergencyFlags": []
+    },
+    "Theft": {
+      "synonyms": ["stolen", "theft", "picked pocket", "robbed", "burglary", "break-in", "lost mobile", "bike stolen", "car stolen"],
+      "recommendedSections": ["sec-bns-303", "sec-bns-305", "sec-bnss-173", "sec-bsa-63"],
+      "keyQuestions": ["item_stolen", "incident_datetime", "incident_location", "without_consent", "suspect_identified", "cctv_available", "ownership_proof", "item_value"],
+      "emergencyFlags": ["armed", "knife", "gun", "physical attack"]
+    },
+    "Assault / Injury": {
+      "synonyms": ["beaten", "hit", "slapped", "attacked", "injured", "threatened", "intimidation", "fight", "assault"],
+      "recommendedSections": ["sec-bns-115", "sec-bns-351", "sec-bnss-173"],
+      "keyQuestions": ["what_happened", "incident_datetime", "incident_location", "people_involved", "injury_sustained", "medical_treatment", "witnesses", "threats_made"],
+      "emergencyFlags": ["immediate danger", "life threat", "serious injury", "bleeding", "weapons", "threat to kill", "domestic violence ongoing"]
+    },
+    "Property Dispute": {
+      "synonyms": ["land dispute", "encroachment", "boundary dispute", "illegal possession", "plot issue", "house dispute", "tenant issue", "land grab"],
+      "recommendedSections": ["sec-bns-329", "sec-bsa-63"],
+      "keyQuestions": ["property_type", "ownership_claimed", "ownership_documents", "agreement_exists", "nature_of_dispute", "other_party", "dispute_start_date", "notices_exchanged"],
+      "emergencyFlags": ["demolition without order", "armed encroachers", "violence"]
+    },
+    "Consumer Problem": {
+      "synonyms": ["defective product", "warranty denied", "seller fraud", "bad service", "refund refused", "damaged delivery", "e-commerce issue"],
+      "recommendedSections": ["sec-cpa-2-11", "sec-bsa-63"],
+      "keyQuestions": ["product_service_name", "purchase_date", "amount_paid", "seller_name", "defect_description", "refund_requested", "invoice_available"],
+      "emergencyFlags": []
+    }
+  }
+}

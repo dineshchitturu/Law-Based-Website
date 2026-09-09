@@ -1,0 +1,57 @@
+[
+  {
+    "id": "act-bns-2023",
+    "shortCode": "BNS",
+    "title": "Bharatiya Nyaya Sanhita, 2023",
+    "enactedYear": 2023,
+    "effectiveDate": "2024-07-01",
+    "jurisdiction": "India",
+    "category": "Substantive Criminal Law",
+    "description": "The primary criminal code of India, repealing and replacing the Indian Penal Code, 1860. Defines offences and prescribes punishments for crimes against person, property, and the state.",
+    "sourceUrl": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws"
+  },
+  {
+    "id": "act-bnss-2023",
+    "shortCode": "BNSS",
+    "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "enactedYear": 2023,
+    "effectiveDate": "2024-07-01",
+    "jurisdiction": "India",
+    "category": "Procedural Criminal Law",
+    "description": "Governs criminal procedure, investigation, arrest, FIR registration, bail, inquiry, and trial in India, replacing the Code of Criminal Procedure, 1973.",
+    "sourceUrl": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws"
+  },
+  {
+    "id": "act-bsa-2023",
+    "shortCode": "BSA",
+    "title": "Bharatiya Sakshya Adhiniyam, 2023",
+    "enactedYear": 2023,
+    "effectiveDate": "2024-07-01",
+    "jurisdiction": "India",
+    "category": "Law of Evidence",
+    "description": "Governs the admissibility and evaluation of evidence, including modern digital and electronic records, replacing the Indian Evidence Act, 1872.",
+    "sourceUrl": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws"
+  },
+  {
+    "id": "act-it-2000",
+    "shortCode": "IT_ACT",
+    "title": "Information Technology Act, 2000",
+    "enactedYear": 2000,
+    "effectiveDate": "2000-10-17",
+    "jurisdiction": "India",
+    "category": "Cyber Law",
+    "description": "The primary law in India dealing with cybercrime, unauthorized computer access, electronic commerce, digital signatures, and electronic communications.",
+    "sourceUrl": "https://www.meity.gov.in/content/information-technology-act-2000"
+  },
+  {
+    "id": "act-cpa-2019",
+    "shortCode": "CPA",
+    "title": "Consumer Protection Act, 2019",
+    "enactedYear": 2019,
+    "effectiveDate": "2020-07-20",
+    "jurisdiction": "India",
+    "category": "Consumer Law",
+    "description": "Protects consumer interests, provides mechanisms for speedy grievance redressal through Consumer Commissions (District, State, National), and tackles unfair trade practices and defective products/services.",
+    "sourceUrl": "https://consumeraffairs.nic.in/acts-and-rules/consumer-protection"
+  }
+]

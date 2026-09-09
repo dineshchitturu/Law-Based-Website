@@ -137,7 +137,6 @@ export const App: React.FC = () => {
         );
 
       case 'evidence_all':
-      case 'evidence':
         return <MyEvidencePage onSelectCase={(id) => navigate('case_details', id)} />;
 
       case 'search_laws':
